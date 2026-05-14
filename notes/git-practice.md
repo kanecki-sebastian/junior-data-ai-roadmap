@@ -13,3 +13,7 @@ A commit should describe one clear change.
 ## Commit 4
 
 The staging area lets me choose what will be included in the next commit.
+
+## Commit 5
+
+GitHub stores my repository online and helps me show my work.
